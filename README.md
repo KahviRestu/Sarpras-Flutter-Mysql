@@ -1,6 +1,6 @@
 # sarpras
 
-A new Flutter project.
+Project Sarana Prasarana with Flutter for Android, Mysql for Database, and Laravel for Backend
 
 ## Getting Started
 
