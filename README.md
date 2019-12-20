@@ -1,4 +1,4 @@
-# sarpras
+# Sarana Dan Prasarana
 
 Project Sarana Prasarana with Flutter for Android, Mysql for Database, and Laravel for Backend
 
